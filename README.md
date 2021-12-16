@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 
 - 💻 My github stats
 
-  ![ACupofAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbadBao&show_icons=true&theme=radical)
-- 💘 My Preferred language
-
-  ![ACupofAir's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbadBao&layout=compact&langs_count=10&show_icons=true&theme=radical)
-
+  ![thisisbadBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbadBao&show_icons=true&theme=radical)
+  
 😎
 
