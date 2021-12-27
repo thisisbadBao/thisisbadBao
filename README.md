@@ -1,4 +1,4 @@
-### Hey there 👋
+<!-- ### Hey there 👋 -->
 <!--
 **thisisbadBao/thisisbadBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,10 +30,19 @@ Here are some ideas to get you started:
   - [x] ![basic algorithm](https://img.shields.io/badge/worker-basic--algorithm-blue) 
   - [x] ![ML DL NN](https://img.shields.io/badge/newcomer-ML--DL--NN-green)
   - [ ] ![electron](https://img.shields.io/badge/learner-electron-yellow) -->
+  
 ______   _____            _    _    ___    _   _   _____            _____  __   __  _____   _____   _____   _____   _____
 |  _  \ |  _  |          | |  | |  / _ \  | | | | |_   _|          |  ___| \ \ / / /  __ \ |_   _| |_   _| |  ___| /  ___|
 | | | | | | | |          | |  | | / /_\ \ | |_| |   | |            | |__    \ V /  | /  \/   | |     | |   | |__   \ `--.
 | | | | | | | |          | |/\| | |  _  | |  _  |   | |            |  __|   /   \  | |       | |     | |   |  __|   `--. \
 | |/ /  \ \_/ /          \  /\  / | | | | | | | |   | |            | |___  / /^\ \ | \__/\  _| |_    | |   | |___  /\__/ /
 |___/    \___/            \/  \/  \_| |_/ \_| |_/   \_/            \____/  \/   \/  \____/  \___/    \_/   \____/  \____/
+
+
+
+
+
+
+
+
 
