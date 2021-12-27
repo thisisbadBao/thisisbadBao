@@ -31,15 +31,8 @@ Here are some ideas to get you started:
   - [x] ![ML DL NN](https://img.shields.io/badge/newcomer-ML--DL--NN-green)
   - [ ] ![electron](https://img.shields.io/badge/learner-electron-yellow) -->
   
-______   _____            _    _    ___    _   _   _____            _____  __   __  _____   _____   _____   _____   _____
-|  _  \ |  _  |          | |  | |  / _ \  | | | | |_   _|          |  ___| \ \ / / /  __ \ |_   _| |_   _| |  ___| /  ___|
-| | | | | | | |          | |  | | / /_\ \ | |_| |   | |            | |__    \ V /  | /  \/   | |     | |   | |__   \ `--.
-| | | | | | | |          | |/\| | |  _  | |  _  |   | |            |  __|   /   \  | |       | |     | |   |  __|   `--. \
-| |/ /  \ \_/ /          \  /\  / | | | | | | | |   | |            | |___  / /^\ \ | \__/\  _| |_    | |   | |___  /\__/ /
-|___/    \___/            \/  \/  \_| |_/ \_| |_/   \_/            \____/  \/   \/  \____/  \___/    \_/   \____/  \____/
+![Metrics](https://metrics.lecoq.io/thisisbadbao?template=classic&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FShanghai)
 
-
-1
 
 
 
