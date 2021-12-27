@@ -30,10 +30,10 @@ Here are some ideas to get you started:
   - [x] ![basic algorithm](https://img.shields.io/badge/worker-basic--algorithm-blue) 
   - [x] ![ML DL NN](https://img.shields.io/badge/newcomer-ML--DL--NN-green)
   - [ ] ![electron](https://img.shields.io/badge/learner-electron-yellow) -->
-
-- 💻 My github stats
-
-  ![thisisbadBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbadBao&show_icons=true&theme=radical)
-  
-😎
+______   _____            _    _    ___    _   _   _____            _____  __   __  _____   _____   _____   _____   _____
+|  _  \ |  _  |          | |  | |  / _ \  | | | | |_   _|          |  ___| \ \ / / /  __ \ |_   _| |_   _| |  ___| /  ___|
+| | | | | | | |          | |  | | / /_\ \ | |_| |   | |            | |__    \ V /  | /  \/   | |     | |   | |__   \ `--.
+| | | | | | | |          | |/\| | |  _  | |  _  |   | |            |  __|   /   \  | |       | |     | |   |  __|   `--. \
+| |/ /  \ \_/ /          \  /\  / | | | | | | | |   | |            | |___  / /^\ \ | \__/\  _| |_    | |   | |___  /\__/ /
+|___/    \___/            \/  \/  \_| |_/ \_| |_/   \_/            \____/  \/   \/  \____/  \___/    \_/   \____/  \____/
 
